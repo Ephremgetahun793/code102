@@ -1,0 +1,28 @@
+.title{
+    color: purple;
+}
+#bar{
+    color: blue;
+}
+body{
+    background-color: aqua;
+}
+p{
+    font-size: 36px
+}
+ul{
+    color: red;
+    font-size: 36px
+}
+p{
+    text-align: center;
+}
+ul{
+    font-weight: bold;
+}
+ol{
+    font-weight: bold;
+}
+h1{
+    background-color: red;
+}
